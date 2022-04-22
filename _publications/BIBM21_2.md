@@ -1,7 +1,8 @@
 ---
 title: "An End-to-End Sleep Staging Simulator Based on Mixed Deep Neural Networks"
 collection: Conference
-permalink: /publication/2021-BIBM-2
+permalink: /publication/BIBM21_2
+date: 2022
 venue: '2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
 ---
 Authors: Zheng Chen, Ziwei Yang, Dong Wang, Ming Huang, Naoaki Ono, Md Altaf-Ul-Amin, Shigehiko Kanaya
