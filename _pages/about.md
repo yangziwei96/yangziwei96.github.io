@@ -20,7 +20,7 @@ IJCAI 2022
 Multi-Tier Platform for Cognizing Massive Electroencephalogram
 Zheng Chen, Lingwei Zhu, Ziwei Yang, Renyuan Zhang
 https://arxiv.org/pdf/2204.09840.pdf.
-
+---
 EMBC 2022
 
 
