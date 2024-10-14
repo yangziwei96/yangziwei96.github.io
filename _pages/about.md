@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ziwei Yang (楊 子威), a last-year master's student at Computational Systems Biology Lab, Nara Institute of Science and Technology (NAIST) under the joint supervision of Prof.[Shigehiko Kanaya](https://scholar.google.com/citations?user=4Onx7zgAAAAJ&hl=en) and Prof. [Md. Altaf-Ul-Amin](https://scholar.google.co.jp/citations?user=7WPxREYAAAAJ&hl=en). 
+My name is Ziwei Yang (楊 子威), currently I am a Ph.D. student with Prof. [Tatsuya Akutsu](https://scholar.google.com/citations?user=IwippccAAAAJ&hl=en) at the Lab of Mathematical Bioinformatics of Kyoto University.
+I received my master's degree from the Computational Systems Biology Lab of Nara Institute of Science and Technology (NAIST), under the supervision of Prof.[Shigehiko Kanaya](https://scholar.google.com/citations?user=4Onx7zgAAAAJ&hl=en) 
 
-My research interest lies in applications of machine learning and data analysis methods with an emphasis on biomedical areas, e.g. deep learning model for cancer omics data analysis.
+My research interests lie in machine learning and data analysis methods and their application to biomedical areas, such as deep learning algorithms for healthcare and bio-networks analysis. 
 
 Feel free to contact me via *yangziwei96@gmail.com*.
 
